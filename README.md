@@ -16,7 +16,7 @@ Children and individuals with speech disorders often lack consistent access to p
 
 ## 🎯 Our Solution
 
-**Text2Talk** enables:
+**Talk2Text** enables:
 - 🧑‍⚕️ **Speech Therapists** to assign custom exercises, define scoring rubrics per patient, and deliver direct feedback.
 - 🧒 **Patients** to practice assigned sentences, get instant analysis, track progress, and improve over time.
 
@@ -24,7 +24,7 @@ Children and individuals with speech disorders often lack consistent access to p
 
 ## 👥 Team Details
 
-**Team Name**: `text2talk`
+**Team Name**: `talk2text`
 
 | Name               | Email                              |
 |--------------------|------------------------------------|
